@@ -1,6 +1,13 @@
-# jupyter-share
-Sharing sparql queries to http://vocab.nerc.ac.uk/sparql/ via jupyter
-In order to run them please install the following:
+# ENVRI-FAIR Vocabularies Demonstrator 
 
-https://rdflib.github.io/sparqlwrapper/
+This technology demonstrator shows how to find and access the [NERC Vocabularies](http://vocab.nerc.ac.uk/sparql/).
+
+## Requirements
+
+```
 pip install SPARQLWrapper
+```
+
+## Links
+
+[https://rdflib.github.io/sparqlwrapper/](https://rdflib.github.io/sparqlwrapper/)
